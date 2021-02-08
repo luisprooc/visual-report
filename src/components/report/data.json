@@ -1,0 +1,107 @@
+{
+    "_id" : "601d5c4f5d3f00001788cebc",
+    "asignaturas" : [ 
+        {
+            "codigo_asignatura" : "CNAT005",
+            "ago_sept_oct" : "95",
+            "nov_dic_ene" : "0",
+            "feb_mar" : "0",
+            "abr_may_jun" : "0",
+            "cf" : 24
+        }, 
+        {
+            "codigo_asignatura" : "INTE005",
+            "ago_sept_oct" : "90",
+            "nov_dic_ene" : "0",
+            "feb_mar" : "0",
+            "abr_may_jun" : "0",
+            "cf" : 23
+        }, 
+        {
+            "codigo_asignatura" : "CSOC005",
+            "ago_sept_oct" : "99",
+            "nov_dic_ene" : "0",
+            "feb_mar" : "0",
+            "abr_may_jun" : "0",
+            "cf" : 25
+        }, 
+        {
+            "codigo_asignatura" : "EDFI005",
+            "ago_sept_oct" : "94",
+            "nov_dic_ene" : "0",
+            "feb_mar" : "0",
+            "abr_may_jun" : "0",
+            "cf" : 24
+        }, 
+        {
+            "codigo_asignatura" : "LENG005",
+            "ago_sept_oct" : "93",
+            "nov_dic_ene" : "0",
+            "feb_mar" : "0",
+            "abr_may_jun" : "0",
+            "cf" : 23
+        }, 
+        {
+            "codigo_asignatura" : "FIHR005",
+            "ago_sept_oct" : "97",
+            "nov_dic_ene" : "0",
+            "feb_mar" : "0",
+            "abr_may_jun" : "0",
+            "cf" : 24
+        }, 
+        {
+            "codigo_asignatura" : "MATE005",
+            "ago_sept_oct" : "72",
+            "nov_dic_ene" : "0",
+            "feb_mar" : "0",
+            "abr_may_jun" : "0",
+            "cf" : 18
+        }, 
+        {
+            "codigo_asignatura" : "EDAR005",
+            "ago_sept_oct" : "77",
+            "nov_dic_ene" : "0",
+            "feb_mar" : "0",
+            "abr_may_jun" : "0",
+            "cf" : 19
+        }
+    ],
+    "modulos" : [ 
+        {
+            "codigo_asignatura" : "MF3403_TV",
+            "acumulado" : 10,
+            "total" : 12
+        }, 
+        {
+            "codigo_asignatura" : "MF0063_FOL",
+            "acumulado" : 12,
+            "total" : 12
+        }, 
+        {
+            "codigo_asignatura" : "MF3483_CONTA",
+            "acumulado" : 12,
+            "total" : 15
+        }, 
+        {
+            "codigo_asignatura" : "MF3473_MARK",
+            "acumulado" : "0",
+            "total" : "0"
+        }
+    ],
+    "curso" : "5C",
+    "periodo" : "2020-2021",
+    "numero_estudiante" : "25",
+    "rne" : "",
+    "codigo_titular" : "josemiguel.cemas@gmail.com",
+    "nombre_titular" : "Jose Miguel De La Rosa Hidalgo",
+    "estado" : true,
+    "boletin" : "2020-2021",
+    "nombre_estudiante" : "SALCEDO MERÁN ROSLEINY ",
+    "nombre_centro": "CENTRO EDUCATIVO MANUEL ACEVEDO SERRANO FE Y ALEGRIA",
+    "direccion_centro":"RIO VERDE ARRIBA, CUTUPU, LA VEGA, REP DOM.",
+    "tel_centro":"829-691-6052",
+    "correo_centro":"manuelacevedoserrano1@gmail.com",
+    "logo_centro":"https://www.chapala.com/elojo/images/stories/articles2019/may/logo-jaltepec.jpg",
+    "fecha_boletin":"8-2-2021",
+    "__v" : 0
+}
