@@ -10,18 +10,22 @@ const Report = () => {
         <div className="container py-5">
             <div className="row justify-content-center">
                 <div className="col">
+
                     <ReportHead 
                         data={Data}
                     />
                     <ReportBody 
                         data={Data}
                     />
-                    {Data.modulos && <ReportFooter modulos={Data.modulos}/>}
 
-                    <div className="d-flex mt-4 py-4 justify-content-end">
+                    {/* If report contains Modules, renderizate it */}
+                    { Data.modulos && <ReportFooter modulos={Data.modulos}/> }
+
+                    <div className="d-flex justify-content-around" style={{ paddingTop: "6%"}}>
                         <p>Titular</p>
-                        <p className="mx-3">Director</p>
+                        <p>Director</p>
                     </div>
+                    
                 </div>
             </div>
         </div>

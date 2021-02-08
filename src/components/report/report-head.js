@@ -8,14 +8,11 @@ const ReportHead = ({data}) => {
         nombre_titular
     } = data;
 
-    const styles = {
-        marginTop: "-1%"
-    }
 
     return(
         <>
-            <div className="row">
-                <div className="col-md-10">
+            <div className="row ">
+                <div className="col-md-11">
                     <h4>{nombre_centro}</h4>
                     <h6>{direccion_centro}</h6>
                 </div>
@@ -24,7 +21,7 @@ const ReportHead = ({data}) => {
                     <img src={logo_centro} alt="logo" height="80rem"/>
                 </div>
             </div>
-            <div className="d-flex" style={styles}>
+            <div className="d-flex" style={{ marginTop: "-1%" }}>
                 <p>TEL: {tel_centro}</p>
                 <p className="mx-1">| Email: {correo_centro}</p>
             </div>
