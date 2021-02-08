@@ -15,7 +15,7 @@ const ReportHead = ({data}) => {
     return(
         <>
             <div className="row">
-                <div className="col-md-8">
+                <div className="col-md-10">
                     <h4>{nombre_centro}</h4>
                     <h6>{direccion_centro}</h6>
                 </div>
