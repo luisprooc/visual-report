@@ -18,11 +18,11 @@ const Report = () => {
                         data={Data}
                     />
 
-                    {/* If report contains Modules, renderizate it */}
+                    {/* If report contains Modules, render it */}
                     { Data.modulos && <ReportFooter modulos={Data.modulos}/> }
 
-                    <div className="d-flex justify-content-around" style={{ paddingTop: "6%"}}>
-                        <p>Titular</p>
+                    <div className="d-flex justify-content-end" style={{ paddingTop: "6%"}}>
+                        <p style={{ paddingRight: "15%"}}>Titular</p>
                         <p>Director</p>
                     </div>
                     
